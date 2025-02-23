@@ -1,0 +1,9 @@
+google-genai
+streamlit
+pandas
+pydub
+PyAudio
+setuptools
+python-dotenv
+streamlit-webrtc
+yapper-tts
