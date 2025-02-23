@@ -30,10 +30,10 @@ Built with simplicity and accessibility in mind, this project aims to deliver me
 
 2. **Install Dependencies:**
 
-   This project uses [Bun](https://bun.sh/) for dependency management and running commands.
+   This project uses [Python](https://www.python.org/) for dependency management and running commands.
 
    ```bash
-   bun install
+   pip install -r requirements.txt
    ```
 
 3. **Set Up Environment Variables:**
@@ -49,15 +49,9 @@ Built with simplicity and accessibility in mind, this project aims to deliver me
 
 Launch the application by running:
 
-```bash
-bun run start
-```
-
-Or, if using Python for the main logic:
-
-```bash
-python main.py
-```
+   ```bash
+   python main.py
+   ```
 
 ## Project Structure
 
