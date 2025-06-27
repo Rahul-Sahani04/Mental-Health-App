@@ -7,3 +7,4 @@ setuptools
 python-dotenv
 streamlit-webrtc
 yapper-tts
+pyaudioop
